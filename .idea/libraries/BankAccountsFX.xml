@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BankAccountsFX">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Run application/BankAccountsFX.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
